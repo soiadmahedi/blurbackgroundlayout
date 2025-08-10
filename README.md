@@ -53,6 +53,7 @@ Copy the file [`BlurBackgroundLayout.java`](app/src/main/java/com/soiadmahedi/bl
     </LinearLayout>
 
 </com.soiadmahedi.blurbackgroundlayout.BlurBackgroundLayout>
+```
 
 ### 💻 Usage in Java
 ```java
@@ -66,6 +67,7 @@ blurLayout.enableBlur(true);
 
 // Disable blur
 blurLayout.enableBlur(false);
+```
 
 ### ⚙️ Requirements
 Android Version: API 16+ (Blur effect works best on API 17+)
