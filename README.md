@@ -1,7 +1,7 @@
 # Blur Background Layout
 **by Soiad Mahedi**
 
-![App Icon](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![App Icon](app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp)
 
 ## 📸 Screenshots
 <p>
